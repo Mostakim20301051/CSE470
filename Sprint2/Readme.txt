@@ -6,3 +6,4 @@ Group Members (Name with ID):
         4. Md.Shamiul Islam Khan Ishrak(20301235)
 
 Selected Project: Donation management system
+Class Diagram: https://drive.google.com/file/d/1sKRydPRdVhVenZTiGHQcQyCK2TXZpTht/view?fbclid=IwAR2OvarhWRiOUaQgVcCNmaa39Xq1aep7uZEblSDsO27gN5GyfQ_q4b0afIY&pli=1
